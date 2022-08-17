@@ -18,7 +18,7 @@ if ((fiveDigitNumber.ToString()).Length == 5)
 }
 else
 {
-    Console.WriteLine("Please, enter a five-digit number!");
+    Console.WriteLine("Please, enter a FIVE-DIGIT number!");
 }
 
 
